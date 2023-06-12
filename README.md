@@ -1,4 +1,5 @@
 # TEST_FORKS
 a sample repository for testing forking
 
-WIFI IS NOT WORKING!!
+WE LIKE FORKS AND WE LIKE BREAD
+WE LOVE CHEESE AND WE LOVE BOWLS
